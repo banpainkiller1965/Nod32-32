@@ -205,3 +205,6 @@ This repository serves as the official landing page for ESET NOD32 AntiVirus. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ESET NOD32 AntiVirus today!**
+
+---
+**Last updated:** 2026-11-06 02:08:34 UTC
