@@ -207,4 +207,4 @@ This repository serves as the official landing page for ESET NOD32 AntiVirus. Th
 **Get the most recent version of ESET NOD32 AntiVirus today!**
 
 ---
-**Last updated:** 2026-11-13 16:01:40 UTC
+**Last updated:** 2026-11-13 22:26:14 UTC
